@@ -1,0 +1,11 @@
+com\store\beans\AffliatedUser.class
+com\store\beans\Employee.class
+com\store\billing\BillingLineItems.class
+com\store\beans\Users.class
+com\store\billing\Billing.class
+com\store\beans\UserFactory.class
+com\store\productcatelog\Product.class
+com\store\beans\ConstantUtil.class
+com\store\billing\LineItems.class
+com\store\beans\Customer.class
+com\store\productcatelog\ProductRepository.class

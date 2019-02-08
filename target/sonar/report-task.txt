@@ -1,0 +1,6 @@
+projectKey=com.store.billing:RetailStore
+serverUrl=http://localhost:9000
+serverVersion=7.3.0.15553
+dashboardUrl=http://localhost:9000/dashboard?id=com.store.billing%3ARetailStore
+ceTaskId=AWjMvYWp-sI29njkgEmk
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWjMvYWp-sI29njkgEmk
